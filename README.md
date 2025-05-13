@@ -31,7 +31,7 @@ This Power BI dashboard compares the **cost of living** and **expat salary trend
 ## 📢 Author
 **Farhan Khan**  
 🇨🇦 Based in Montreal | Open to opportunities in Qatar and UAE  
-[LinkedIn](https://www.linkedin.com/in/farhan-khan/) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/farhan-khan-fk44/) | [Email](Farhan95@hotmail.com)
 
 ---
 
