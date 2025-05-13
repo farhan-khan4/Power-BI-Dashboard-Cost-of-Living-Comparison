@@ -15,7 +15,7 @@ This Power BI dashboard compares the **cost of living** and **expat salary trend
 - Dynamic filters and slicers
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](<img width="1166" alt="Screenshot 2025-05-12 at 10 41 15 PM" src="https://github.com/user-attachments/assets/985c4e0f-1f40-4f75-9d8f-019ac67d9ef6" />)
 
 ## 📁 File Structure
 - `CostOfLiving.pbix` – Power BI file
